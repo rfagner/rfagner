@@ -31,5 +31,5 @@
 ## ⚙️ &nbsp;Github Analytics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rfagner&show_icons=true&theme=vision-friendly-dark" alt="rfagner's stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfagner&layout=compact&theme=vision-friendly-dark" alt="rfagner's most languanges"/></p>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rfagner&show_icons=true&theme=vision-friendly-dark" alt="rfagner's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfagner&layout=compact&theme=vision-friendly-dark" alt="rfagner's most languanges"/></p>
