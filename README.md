@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfagner&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior .NET developer who tirelessly seeks seniority
-- 👨‍💻 Clean architecture and clean code
+- 🔥 .NET developer in training
+- 👨‍💻 Always looking for best practices
 - 🧑‍🎓 Graduated in Systems Analysis and Development
 
 <br>
