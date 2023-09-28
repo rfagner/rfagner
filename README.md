@@ -5,6 +5,10 @@
 
 Sou um desenvolvedor back-end apaixonado por tecnologia, com experiência em .NET e AWS. Busco constantemente aprender e me atualizar com as melhores práticas do mercado.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rfagner&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfagner)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Sobre Mim
 
 - 👨‍💻 Trabalho principalmente com .NET, utilizando C# e ASP.NET.
@@ -52,10 +56,3 @@ Confira meus desafios de projeto na [Digital Innovation One](https://dio.me/user
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rfsdeveloper)
 
 Sinta-se à vontade para explorar meus projetos, desafios e artigos. Entre em contato se quiser discutir colaborações ou apenas trocar ideias sobre desenvolvimento, .NET, AWS ou qualquer outro tema.
-
-
-## ⚙️ &nbsp;Github Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rfagner&show_icons=true&theme=vision-friendly-dark" alt="rfagner's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfagner&layout=compact&theme=vision-friendly-dark" alt="rfagner's most languanges"/></p>
