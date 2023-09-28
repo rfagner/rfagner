@@ -28,7 +28,10 @@ Aqui estão alguns dos projetos em que tenho trabalhado:
 Confira meus desafios de projeto na [Digital Innovation One](https://dio.me/users/uprogramador):
 
 - [Desafio 1](https://github.com/rfagner/dio-lab-open-source) (Aprender o básico sobre contribuição no GitHub.)
-- [Desafio 2](https://github.com/rfagner/trilha-net-fundamentos-desafio) (Colocar em prática os conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.)
+- [Desafio 2](https://github.com/rfagner/trilha-net-fundamentos-desafio) (Colocar em prática os conhecimentos adquiridos no módulo de Fundamentos, da trilha .NET da DIO.)
+- [Desafio 3](https://github.com/rfagner/trilha-net-explorando-desafio) (Colocar em prática os conhecimentos adquiridos no módulo de Explorando a linguagem C#, da trilha .NET da DIO.)
+- [Desafio 4](https://github.com/rfagner/trilha-net-poo-desafio) (Colocar em prática os conhecimentos adquiridos no módulo de Programação orientada a objetos, da trilha .NET da DIO.)
+
 
 ## Artigos
 
