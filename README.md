@@ -23,19 +23,6 @@ Aqui estão alguns dos projetos em que tenho trabalhado:
 - [Projeto 1](https://github.com/rfagner/microservices-dotnet): Projeto desenvolvido para fins de estudos sobre implementação de microsserviços. (.NET 6 | Docker | MySQL | RabbitMQ)
 - [Projeto 2](https://github.com/rfagner/filmes-api-dotnet): Projeto desenvolvido para fins de estudos sobre desenvolvimento de APIs em .NET. (.NET 6 | Identity | JWT | MySQL)
 
-## Desafios de Projeto
-
-Confira meus desafios de projeto na [Digital Innovation One](https://dio.me/users/uprogramador):
-
-- [Desafio 1](https://github.com/rfagner/dio-lab-open-source) (Aprender o básico sobre contribuição no GitHub.)
-- [Desafio 2](https://github.com/rfagner/trilha-net-fundamentos-desafio) (Colocar em prática os conhecimentos adquiridos no módulo de Fundamentos, da trilha .NET da DIO.)
-- [Desafio 3](https://github.com/rfagner/trilha-net-explorando-desafio) (Colocar em prática os conhecimentos adquiridos no módulo de Explorando a linguagem C#, da trilha .NET da DIO.)
-- [Desafio 4](https://github.com/rfagner/trilha-net-poo-desafio) (Colocar em prática os conhecimentos adquiridos no módulo de Programação orientada a objetos, da trilha .NET da DIO.)
-
-
-## Artigos
-
-- [Artigo 1](https://www.dio.me/articles/iniciando-com-net-sua-jornada-rumo-a-excelencia-na-programacao?q=259): Iniciando com .NET: Sua Jornada Rumo à Excelência na Programação
 
 ## Hard Skills
 
